@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ruido.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ruido0000" x="0" y="0" width="1920" height="1080"/>
+	<SubTexture name="ruido0001" x="0" y="0" width="1920" height="1080"/>
+	<SubTexture name="ruido0002" x="0" y="0" width="1920" height="1080"/>
+	<SubTexture name="ruido0003" x="1920" y="0" width="1920" height="1080"/>
+	<SubTexture name="ruido0004" x="1920" y="0" width="1920" height="1080"/>
+	<SubTexture name="ruido0005" x="1920" y="0" width="1920" height="1080"/>
+	<SubTexture name="ruido0006" x="0" y="1080" width="1920" height="1080"/>
+	<SubTexture name="ruido0007" x="0" y="1080" width="1920" height="1080"/>
+	<SubTexture name="ruido0008" x="0" y="1080" width="1920" height="1080"/>
+	<SubTexture name="ruido0009" x="1920" y="1080" width="1920" height="1080"/>
+	<SubTexture name="ruido0010" x="1920" y="1080" width="1920" height="1080"/>
+	<SubTexture name="ruido0011" x="1920" y="1080" width="1920" height="1080"/>
+	<SubTexture name="ruido0012" x="0" y="2160" width="1920" height="1080"/>
+	<SubTexture name="ruido0013" x="0" y="2160" width="1920" height="1080"/>
+	<SubTexture name="ruido0014" x="0" y="2160" width="1920" height="1080"/>
+	<SubTexture name="ruido0015" x="1920" y="1080" width="1920" height="1080"/>
+	<SubTexture name="ruido0016" x="1920" y="1080" width="1920" height="1080"/>
+	<SubTexture name="ruido0017" x="1920" y="1080" width="1920" height="1080"/>
+</TextureAtlas>

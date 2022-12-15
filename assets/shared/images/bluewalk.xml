@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bluewalk.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ano0000" x="0" y="0" width="0" height="0"/>
+	<SubTexture name="azul0000" x="0" y="0" width="1531" height="768"/>
+	<SubTexture name="azul0001" x="0" y="0" width="1531" height="768"/>
+	<SubTexture name="azul0002" x="1531" y="0" width="1531" height="768"/>
+	<SubTexture name="azul0003" x="1531" y="0" width="1531" height="768"/>
+	<SubTexture name="azul0004" x="3062" y="0" width="1531" height="768"/>
+	<SubTexture name="azul0005" x="3062" y="0" width="1531" height="768"/>
+	<SubTexture name="azul0006" x="4593" y="0" width="1531" height="768"/>
+	<SubTexture name="azul0007" x="4593" y="0" width="1531" height="768"/>
+	<SubTexture name="azul0008" x="6124" y="0" width="1531" height="768"/>
+	<SubTexture name="azul0009" x="6124" y="0" width="1531" height="768"/>
+	<SubTexture name="azul0010" x="0" y="768" width="1531" height="768"/>
+	<SubTexture name="azul0011" x="0" y="768" width="1531" height="768"/>
+	<SubTexture name="azul0012" x="1531" y="768" width="1531" height="768"/>
+	<SubTexture name="azul0013" x="1531" y="768" width="1531" height="768"/>
+	<SubTexture name="azul0014" x="3062" y="768" width="1531" height="768"/>
+	<SubTexture name="azul0015" x="3062" y="768" width="1531" height="768"/>
+	<SubTexture name="azul0016" x="4593" y="768" width="1531" height="768"/>
+	<SubTexture name="azul0017" x="4593" y="768" width="1531" height="768"/>
+	<SubTexture name="azul0018" x="6124" y="768" width="1531" height="768"/>
+	<SubTexture name="azul0019" x="6124" y="768" width="1531" height="768"/>
+	<SubTexture name="azul0020" x="0" y="1536" width="1531" height="768"/>
+	<SubTexture name="azul0021" x="0" y="1536" width="1531" height="768"/>
+	<SubTexture name="azul0022" x="1531" y="1536" width="1531" height="768"/>
+	<SubTexture name="azul0023" x="1531" y="1536" width="1531" height="768"/>
+	<SubTexture name="azul0024" x="3062" y="1536" width="1531" height="768"/>
+	<SubTexture name="azul0025" x="3062" y="1536" width="1531" height="768"/>
+	<SubTexture name="azul0026" x="4593" y="1536" width="1531" height="768"/>
+	<SubTexture name="azul0027" x="4593" y="1536" width="1531" height="768"/>
+	<SubTexture name="azul0028" x="6124" y="1536" width="1531" height="768"/>
+	<SubTexture name="azul0029" x="6124" y="1536" width="1531" height="768"/>
+	<SubTexture name="azul0030" x="0" y="2304" width="1531" height="768"/>
+	<SubTexture name="azul0031" x="0" y="2304" width="1531" height="768"/>
+	<SubTexture name="azul0032" x="1531" y="2304" width="1531" height="768"/>
+	<SubTexture name="azul0033" x="1531" y="2304" width="1531" height="768"/>
+	<SubTexture name="azul0034" x="3062" y="2304" width="1531" height="768"/>
+	<SubTexture name="azul0035" x="3062" y="2304" width="1531" height="768"/>
+	<SubTexture name="azul0036" x="4593" y="2304" width="1531" height="768"/>
+	<SubTexture name="azul0037" x="4593" y="2304" width="1531" height="768"/>
+	<SubTexture name="azul0038" x="6124" y="2304" width="1531" height="768"/>
+	<SubTexture name="azul0039" x="6124" y="2304" width="1531" height="768"/>
+	<SubTexture name="azul0040" x="0" y="3072" width="1531" height="768"/>
+	<SubTexture name="azul0041" x="0" y="3072" width="1531" height="768"/>
+	<SubTexture name="azul0042" x="1531" y="3072" width="1531" height="768"/>
+	<SubTexture name="azul0043" x="1531" y="3072" width="1531" height="768"/>
+	<SubTexture name="azul0044" x="3062" y="3072" width="1531" height="768"/>
+	<SubTexture name="azul0045" x="3062" y="3072" width="1531" height="768"/>
+	<SubTexture name="azul0046" x="4593" y="3072" width="1531" height="768"/>
+	<SubTexture name="azul0047" x="4593" y="3072" width="1531" height="768"/>
+	<SubTexture name="azul0048" x="6124" y="3072" width="1531" height="768"/>
+	<SubTexture name="azul0049" x="6124" y="3072" width="1531" height="768"/>
+	<SubTexture name="azul0050" x="0" y="3840" width="1531" height="768"/>
+	<SubTexture name="azul0051" x="0" y="3840" width="1531" height="768"/>
+	<SubTexture name="azul0052" x="1531" y="3840" width="1531" height="768"/>
+	<SubTexture name="azul0053" x="1531" y="3840" width="1531" height="768"/>
+	<SubTexture name="azul0054" x="3062" y="3840" width="1531" height="768"/>
+	<SubTexture name="azul0055" x="3062" y="3840" width="1531" height="768"/>
+	<SubTexture name="azul0056" x="4593" y="3840" width="1531" height="768"/>
+	<SubTexture name="azul0057" x="4593" y="3840" width="1531" height="768"/>
+	<SubTexture name="azul0058" x="6124" y="3840" width="1531" height="768"/>
+	<SubTexture name="azul0059" x="6124" y="3840" width="1531" height="768"/>
+</TextureAtlas>

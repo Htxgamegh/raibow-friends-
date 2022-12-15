@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="orange.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="naranja0000" x="0" y="0" width="544" height="447"/>
+	<SubTexture name="naranja0001" x="0" y="0" width="544" height="447"/>
+	<SubTexture name="naranja0002" x="544" y="0" width="544" height="447"/>
+	<SubTexture name="naranja0003" x="544" y="0" width="544" height="447"/>
+	<SubTexture name="naranja0004" x="1088" y="0" width="544" height="447"/>
+	<SubTexture name="naranja0005" x="1088" y="0" width="544" height="447"/>
+	<SubTexture name="naranja0006" x="0" y="447" width="544" height="447"/>
+	<SubTexture name="naranja0007" x="0" y="447" width="544" height="447"/>
+	<SubTexture name="naranja0008" x="544" y="447" width="544" height="447"/>
+	<SubTexture name="naranja0009" x="544" y="447" width="544" height="447"/>
+	<SubTexture name="naranja0010" x="1088" y="447" width="544" height="447"/>
+	<SubTexture name="naranja0011" x="1088" y="447" width="544" height="447"/>
+	<SubTexture name="naranja0012" x="0" y="894" width="544" height="447"/>
+	<SubTexture name="naranja0013" x="0" y="894" width="544" height="447"/>
+	<SubTexture name="naranja0014" x="544" y="894" width="544" height="447"/>
+	<SubTexture name="naranjo0000" x="1088" y="894" width="0" height="0"/>
+</TextureAtlas>

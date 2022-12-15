@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="text.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="texto00000" x="0" y="0" width="0" height="0"/>
+	<SubTexture name="texto110000" x="0" y="0" width="205" height="69"/>
+	<SubTexture name="texto220000" x="0" y="69" width="314" height="69"/>
+</TextureAtlas>
