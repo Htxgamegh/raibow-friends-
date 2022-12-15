@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				6,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "bf down"
+		},
+		{
+			"offsets": [
+				-2,
+				14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "bf up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "bf left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "bf idle"
+		},
+		{
+			"offsets": [
+				16,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "bf right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				112,
+				101
+			],
+			"anim": "scare",
+			"fps": 24,
+			"name": "bf scared",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bf_assets",
+	"position": [
+		420,
+		440
+	],
+	"healthicon": "bfsearch",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		138,
+		171
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
