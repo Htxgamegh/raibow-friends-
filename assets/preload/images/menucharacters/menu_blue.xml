@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_blue.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blue menu0000" x="0" y="0" width="324" height="455"/>
+	<SubTexture name="blue menu0001" x="0" y="0" width="324" height="455"/>
+	<SubTexture name="blue menu0002" x="324" y="0" width="324" height="455"/>
+	<SubTexture name="blue menu0003" x="324" y="0" width="324" height="455"/>
+	<SubTexture name="blue menu0004" x="648" y="0" width="324" height="455"/>
+	<SubTexture name="blue menu0005" x="648" y="0" width="324" height="455"/>
+	<SubTexture name="blue menu0006" x="324" y="0" width="324" height="455"/>
+	<SubTexture name="blue menu0007" x="324" y="0" width="324" height="455"/>
+</TextureAtlas>
