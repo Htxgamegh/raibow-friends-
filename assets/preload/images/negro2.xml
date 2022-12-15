@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="negro.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="black10000" x="0" y="0" width="4079" height="2431"/>
+	<SubTexture name="black20000" x="4079" y="0" width="0" height="0"/>
+</TextureAtlas>

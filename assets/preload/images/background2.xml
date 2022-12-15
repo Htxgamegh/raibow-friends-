@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="background2.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="scenary0000" x="0" y="0" width="2596" height="1331"/>
+	<SubTexture name="scenary0001" x="0" y="0" width="2596" height="1331"/>
+	<SubTexture name="scenary0002" x="2596" y="0" width="2596" height="1331"/>
+	<SubTexture name="scenary0003" x="2596" y="0" width="2596" height="1331"/>
+	<SubTexture name="scenary0004" x="2596" y="0" width="2596" height="1331"/>
+	<SubTexture name="scenary0005" x="2596" y="0" width="2596" height="1331"/>
+	<SubTexture name="scenary0006" x="5192" y="0" width="2596" height="1331"/>
+	<SubTexture name="scenary0007" x="5192" y="0" width="2596" height="1331"/>
+	<SubTexture name="scenary0008" x="0" y="1331" width="2596" height="1331"/>
+	<SubTexture name="scenary0009" x="0" y="1331" width="2596" height="1331"/>
+	<SubTexture name="scenary0010" x="2596" y="1331" width="2596" height="1331"/>
+	<SubTexture name="scenary0011" x="2596" y="1331" width="2596" height="1331"/>
+	<SubTexture name="scenary0012" x="5192" y="1331" width="2596" height="1331"/>
+	<SubTexture name="scenary0013" x="5192" y="1331" width="2596" height="1331"/>
+	<SubTexture name="scenary0014" x="0" y="2662" width="2596" height="1331"/>
+	<SubTexture name="scenary0015" x="0" y="2662" width="2596" height="1331"/>
+	<SubTexture name="scenary0016" x="0" y="2662" width="2596" height="1331"/>
+	<SubTexture name="scenary0017" x="0" y="2662" width="2596" height="1331"/>
+	<SubTexture name="scenary0018" x="0" y="2662" width="2596" height="1331"/>
+	<SubTexture name="scenary0019" x="0" y="2662" width="2596" height="1331"/>
+	<SubTexture name="scenary0020" x="0" y="2662" width="2596" height="1331"/>
+	<SubTexture name="scenary0021" x="0" y="2662" width="2596" height="1331"/>
+	<SubTexture name="scenary0022" x="0" y="2662" width="2596" height="1331"/>
+	<SubTexture name="scenary0023" x="0" y="2662" width="2596" height="1331"/>
+</TextureAtlas>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="background1.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="escenario0000" x="0" y="0" width="2596" height="1331"/>
+	<SubTexture name="escenario0001" x="0" y="0" width="2596" height="1331"/>
+	<SubTexture name="escenario0002" x="0" y="0" width="2596" height="1331"/>
+	<SubTexture name="escenario0003" x="0" y="0" width="2596" height="1331"/>
+	<SubTexture name="escenario0004" x="0" y="0" width="2596" height="1331"/>
+	<SubTexture name="escenario0005" x="0" y="0" width="2596" height="1331"/>
+	<SubTexture name="escenario0006" x="0" y="0" width="2596" height="1331"/>
+	<SubTexture name="escenario0007" x="0" y="0" width="2596" height="1331"/>
+	<SubTexture name="escenario0008" x="0" y="0" width="2596" height="1331"/>
+	<SubTexture name="escenario0009" x="0" y="0" width="2596" height="1331"/>
+	<SubTexture name="escenario0010" x="0" y="0" width="2596" height="1331"/>
+	<SubTexture name="escenario0011" x="0" y="0" width="2596" height="1331"/>
+	<SubTexture name="escenario0012" x="0" y="0" width="2596" height="1331"/>
+	<SubTexture name="escenario0013" x="0" y="0" width="2596" height="1331"/>
+	<SubTexture name="escenario0014" x="0" y="0" width="2596" height="1331"/>
+	<SubTexture name="escenario0015" x="0" y="0" width="2596" height="1331"/>
+	<SubTexture name="escenario0016" x="0" y="0" width="2596" height="1331"/>
+	<SubTexture name="escenario0017" x="0" y="0" width="2596" height="1331"/>
+	<SubTexture name="escenario0018" x="0" y="0" width="2596" height="1331"/>
+	<SubTexture name="escenario0019" x="0" y="0" width="2596" height="1331"/>
+	<SubTexture name="escenario0020" x="0" y="0" width="2596" height="1331"/>
+	<SubTexture name="escenario0021" x="0" y="0" width="2596" height="1331"/>
+	<SubTexture name="escenario0022" x="0" y="0" width="2596" height="1331"/>
+	<SubTexture name="escenario0023" x="0" y="0" width="2596" height="1331"/>
+</TextureAtlas>
